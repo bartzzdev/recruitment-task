@@ -1,7 +1,7 @@
 package com.iambartz.recruitmenttask.service;
 
 import com.iambartz.recruitmenttask.client.GithubClient;
-import com.iambartz.recruitmenttask.model.*;
+import com.iambartz.recruitmenttask.dto.*;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

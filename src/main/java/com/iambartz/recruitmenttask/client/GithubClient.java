@@ -1,7 +1,7 @@
 package com.iambartz.recruitmenttask.client;
 
-import com.iambartz.recruitmenttask.model.GithubBranchDto;
-import com.iambartz.recruitmenttask.model.GithubRepositoryDto;
+import com.iambartz.recruitmenttask.dto.GithubBranchDto;
+import com.iambartz.recruitmenttask.dto.GithubRepositoryDto;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

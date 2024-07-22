@@ -2,7 +2,7 @@ package com.iambartz.recruitmenttask.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.iambartz.recruitmenttask.exception.UsernameNotFoundException;
-import com.iambartz.recruitmenttask.model.AggregatedRepositoriesDto;
+import com.iambartz.recruitmenttask.dto.AggregatedRepositoriesDto;
 import com.iambartz.recruitmenttask.service.RepositoryService;
 import com.iambartz.recruitmenttask.test.AbstractTest;
 import com.iambartz.recruitmenttask.test.RepositoryDtoFactory;

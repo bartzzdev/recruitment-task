@@ -1,9 +1,9 @@
 package com.iambartz.recruitmenttask.test;
 
-import com.iambartz.recruitmenttask.model.GithubBranchDto;
-import com.iambartz.recruitmenttask.model.GithubCommitDto;
-import com.iambartz.recruitmenttask.model.GithubOwnerDto;
-import com.iambartz.recruitmenttask.model.GithubRepositoryDto;
+import com.iambartz.recruitmenttask.dto.GithubBranchDto;
+import com.iambartz.recruitmenttask.dto.GithubCommitDto;
+import com.iambartz.recruitmenttask.dto.GithubOwnerDto;
+import com.iambartz.recruitmenttask.dto.GithubRepositoryDto;
 
 public final class GithubDtoFactory {
     private GithubDtoFactory() {}

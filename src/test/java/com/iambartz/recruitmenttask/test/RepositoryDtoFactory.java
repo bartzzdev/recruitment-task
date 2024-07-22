@@ -1,8 +1,8 @@
 package com.iambartz.recruitmenttask.test;
 
-import com.iambartz.recruitmenttask.model.AggregatedRepositoriesDto;
-import com.iambartz.recruitmenttask.model.RepositoryBranchDto;
-import com.iambartz.recruitmenttask.model.UserRepositoryDto;
+import com.iambartz.recruitmenttask.dto.AggregatedRepositoriesDto;
+import com.iambartz.recruitmenttask.dto.RepositoryBranchDto;
+import com.iambartz.recruitmenttask.dto.UserRepositoryDto;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
 package com.iambartz.recruitmenttask.controller;
 
 import com.iambartz.recruitmenttask.ApiConstants;
-import com.iambartz.recruitmenttask.model.AggregatedRepositoriesDto;
+import com.iambartz.recruitmenttask.dto.AggregatedRepositoriesDto;
 import com.iambartz.recruitmenttask.service.RepositoryService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.iambartz.recruitmenttask.model;
+package com.iambartz.recruitmenttask.dto;
 
 import lombok.Builder;
 

@@ -1,9 +1,9 @@
 package com.iambartz.recruitmenttask.service;
 
-import com.iambartz.recruitmenttask.model.GithubBranchDto;
-import com.iambartz.recruitmenttask.model.GithubRepositoryDto;
-import com.iambartz.recruitmenttask.model.RepositoryBranchDto;
-import com.iambartz.recruitmenttask.model.UserRepositoryDto;
+import com.iambartz.recruitmenttask.dto.GithubBranchDto;
+import com.iambartz.recruitmenttask.dto.GithubRepositoryDto;
+import com.iambartz.recruitmenttask.dto.RepositoryBranchDto;
+import com.iambartz.recruitmenttask.dto.UserRepositoryDto;
 import lombok.experimental.UtilityClass;
 
 import java.util.List;
